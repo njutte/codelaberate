@@ -1,0 +1,17 @@
+{
+  "name": "1fleet-says-hello",
+  "version": "0.0.1",
+  "description": "Editing game",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Jutte",
+  "license": "ISC",
+  "dependencies": {
+    "diff": "^4.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "vm2": "^3.8.3"
+  }
+}
