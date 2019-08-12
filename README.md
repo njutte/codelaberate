@@ -1,2 +1,2 @@
 # codelaberate
-Ineffective mod programming
+Ineffective mob programming
